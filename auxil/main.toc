@@ -1,0 +1,6 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Теоретическая информация}{2}{}%
+\contentsline {section}{\numberline {2}Ход выполнения работы}{2}{}%
+\contentsline {subsection}{\numberline {2.1}В ходе выполнения данной лабораторной работы было получено}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Графики}{2}{}%
+\contentsfinish 

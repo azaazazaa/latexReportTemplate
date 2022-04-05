@@ -2,25 +2,23 @@
 %! Date = 05.04.2022
 
 % Preamble
-\documentclass[11pt]{article}
+\documentclass[12pt]{article}
+\include{config}
 
-% Packages
-\usepackage{amsmath}
-\usepackage[T2A]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
+% Не редактируем: используемые пакеты
+\include{settings/packages}
+
+% Не редактируем: параметры используемых пакетов и не только
+\include{settings/style}
 % Document
 \begin{document}
-    \section{Введение}\label{sec:work}
-    Ссылка на секцию~\ref{sec:work}
+    \include{templates/titlepage}
 
-    \section{Цели проекта}\label{sec:points}
-    \begin{itemize}
-        \item Первая цель проекта
-        \item Вторая цель проекта
-        \item Третья цель проекта
-    \end{itemize}
-    newLin~\cite{conlan1983massive}
+    % Не редактируем: Страница содержания (формируется автоматически из section, subsection и пр., указанных в content.tex)
+    \include{templates/tocpage}
+
+    % Редактируем: всё остальное: вступление, др. этапы, заключение, приложение
+    \include{content}
 
     \bibliography{main}
     \bibliographystyle{plain}
