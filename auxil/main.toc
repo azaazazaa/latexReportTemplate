@@ -1,6 +1,11 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Теоретическая информация}{2}{}%
-\contentsline {section}{\numberline {2}Ход выполнения работы}{2}{}%
-\contentsline {subsection}{\numberline {2.1}В ходе выполнения данной лабораторной работы было получено}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Графики}{2}{}%
+\contentsline {section}{\numberline {1}Цель работы}{2}{}%
+\contentsline {section}{\numberline {2}Задачи, решаемые в лабораторной работе}{2}{}%
+\contentsline {section}{\numberline {3}Теоретическая информация}{2}{}%
+\contentsline {section}{\numberline {4}Рабочие формулы и исходные данные}{2}{}%
+\contentsline {section}{\numberline {5}Оборудования и принадлежности}{2}{}%
+\contentsline {subsection}{\numberline {5.1}Схема установки}{2}{}%
+\contentsline {section}{\numberline {6}Результаты эксперимента}{2}{}%
+\contentsline {section}{\numberline {7}Графики}{3}{}%
+\contentsline {section}{\numberline {8}Выводы и анализы результатов}{3}{}%
 \contentsfinish 
