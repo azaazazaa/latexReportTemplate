@@ -1,9 +1,18 @@
 \begin{thebibliography}{1}
 
-\bibitem{conlan1983massive}
-AA~Conlan, SS~Hurwitz, L~Krige, N~Nicolaou, and R~Pool.
-\newblock Massive hemoptysis: review of 123 cases.
-\newblock {\em The Journal of thoracic and cardiovascular surgery},
-  85(1):120--124, 1983.
+\bibitem{levenberg1944method}
+Kenneth Levenberg.
+\newblock A method for the solution of certain non-linear problems in least
+  squares.
+\newblock {\em Quarterly of applied mathematics}, 2(2):164--168, 1944.
+
+\bibitem{AseevMetoda}
+Владимир~Анатольевич Асеев,
+  Анастасия~Николаевна Бабкина,
+  Леонид~Юрьевич Миронов, and
+  Рустам~Какабаевич Нурыев.
+\newblock Методы и техника исследования
+  оптических материалов.
+\newblock 2020.
 
 \end{thebibliography}

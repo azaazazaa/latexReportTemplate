@@ -11,44 +11,46 @@ Reallocating 'name_of_file' (item size: 1) to 5 items.
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Database file #1: main.bib
-You've used 1 entry,
+Warning--empty journal in AseevMetoda
+You've used 2 entries,
             2118 wiz_defined-function locations,
-            507 strings with 4231 characters,
-and the built_in function-call counts, 446 in all, are:
-= -- 41
-> -- 28
+            511 strings with 4669 characters,
+and the built_in function-call counts, 620 in all, are:
+= -- 58
+> -- 30
 < -- 0
-+ -- 11
++ -- 13
 - -- 10
-* -- 41
-:= -- 82
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 8
+* -- 45
+:= -- 114
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 11
-empty$ -- 28
+cite$ -- 3
+duplicate$ -- 21
+empty$ -- 45
 format.name$ -- 10
-if$ -- 84
+if$ -- 119
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 2
-pop$ -- 6
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 11
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 9
 quote$ -- 0
-skip$ -- 7
+skip$ -- 14
 stack$ -- 0
-substring$ -- 30
+substring$ -- 36
 swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 4
-width$ -- 2
-write$ -- 13
+type$ -- 8
+warning$ -- 1
+while$ -- 6
+width$ -- 3
+write$ -- 22
+(There was 1 warning)

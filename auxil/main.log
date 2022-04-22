@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  13 APR 2022 22:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  21 APR 2022 03:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,13 +485,41 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen182
 \xmathstrut@box=\box54
 \xmathstrut@dim=\dimen183
-)) (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count282
 \float@exts=\toks33
 \float@box=\box55
 \@float@everytoks=\toks34
 \@floatcapt=\box56
+)
+(C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip62
+\subfigcapskip=\skip63
+\subfigcaptopadj=\dimen184
+\subfigbottomskip=\skip64
+\subfigcapmargin=\dimen185
+\subfiglabelskip=\skip65
+\c@subfigure=\count283
+\c@lofdepth=\count284
+\c@subtable=\count285
+\c@lotdepth=\count286
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg
+)
+\subfig@top=\skip66
+\subfig@bottom=\skip67
+))
+(C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count287
+\multirow@dima=\skip69
+\bigstrutjot=\dimen186
 )
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
@@ -501,7 +529,7 @@ e 13.
 (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count283
+\l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box57
 ) (C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.aux
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/titlepage.aux)
@@ -530,16 +558,16 @@ LaTeX Info: Redefining \th on input line 15.
 (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen184
+\scratchcounter=\count289
+\scratchdimen=\dimen187
 \scratchbox=\box58
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen185
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen188
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks36
 )
 (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -588,6 +616,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `templates/titlepage.aux'.
 
@@ -616,7 +645,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [1
+ [2
 
 
 
@@ -624,18 +653,93 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `content.aux'.
 
  (content.tex
-<figures/example.png, id=14, 216.81pt x 216.81pt>
-File: figures/example.png Graphic file (type png)
-<use figures/example.png>
-Package pdftex.def Info: figures/example.png  used on input line 44.
-(pdftex.def)             Requested size: 216.80946pt x 216.80946pt.
+<figures/Scheme.png, id=14, 675.52374pt x 293.095pt>
+File: figures/Scheme.png Graphic file (type png)
+<use figures/Scheme.png>
+Package pdftex.def Info: figures/Scheme.png  used on input line 82.
+(pdftex.def)             Requested size: 370.2541pt x 160.64818pt.
 
-[2
+[3
 
 
 
-]) [3 <./figures/example.png>]
-(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl) [4
+]
+Overfull \hbox (13.06418pt too wide) in paragraph at lines 104--107
+[]\T2A/cmr/m/n/12 По по-лу-чен-ным ре-зуль-та-там мож-но ска-зать, что при уве-
+ли-че-нии кон-цен-тра-ции ионов-активаторов
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 113.
+
+[4 <./figures/Scheme.png>]
+<figures/ContcentrationTheory.png, id=30, 462.528pt x 346.896pt>
+File: figures/ContcentrationTheory.png Graphic file (type png)
+<use figures/ContcentrationTheory.png>
+Package pdftex.def Info: figures/ContcentrationTheory.png  used on input line 1
+58.
+(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
+<figures/Contcentration.png, id=31, 462.528pt x 346.896pt>
+File: figures/Contcentration.png Graphic file (type png)
+<use figures/Contcentration.png>
+Package pdftex.def Info: figures/Contcentration.png  used on input line 166.
+(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
+ [5 <./figures/ContcentrationTheory.png>]
+<figures/I_340.png, id=36, 462.528pt x 346.896pt>
+File: figures/I_340.png Graphic file (type png)
+<use figures/I_340.png>
+Package pdftex.def Info: figures/I_340.png  used on input line 183.
+(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
+<figures/I_342.png, id=37, 462.528pt x 346.896pt>
+File: figures/I_342.png Graphic file (type png)
+<use figures/I_342.png>
+Package pdftex.def Info: figures/I_342.png  used on input line 192.
+(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+
+Overfull \hbox (7.8314pt too wide) in paragraph at lines 183--193
+ [][][] 
+ []
+
+<figures/I_343.png, id=38, 462.528pt x 346.896pt>
+File: figures/I_343.png Graphic file (type png)
+<use figures/I_343.png>
+Package pdftex.def Info: figures/I_343.png  used on input line 202.
+(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
+<figures/I_344.png, id=39, 462.528pt x 346.896pt>
+File: figures/I_344.png Graphic file (type png)
+<use figures/I_344.png>
+Package pdftex.def Info: figures/I_344.png  used on input line 211.
+(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+
+Overfull \hbox (15.66283pt too wide) in paragraph at lines 202--213
+ [][][] 
+ []
+
+<figures/I_345.png, id=40, 462.528pt x 346.896pt>
+File: figures/I_345.png Graphic file (type png)
+<use figures/I_345.png>
+Package pdftex.def Info: figures/I_345.png  used on input line 225.
+(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+<figures/I_346.png, id=41, 462.528pt x 346.896pt>
+File: figures/I_346.png Graphic file (type png)
+<use figures/I_346.png>
+Package pdftex.def Info: figures/I_346.png  used on input line 234.
+(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+
+Overfull \hbox (15.66283pt too wide) in paragraph at lines 225--236
+ [][][] 
+ []
+
+[6 <./figures/Contcentration.png> <./figures/I_340.png> <./figures/I_342.png> <
+./figures/I_343.png> <./figures/I_344.png>]
+<figures/I_347.png, id=50, 462.528pt x 346.896pt>
+File: figures/I_347.png Graphic file (type png)
+<use figures/I_347.png>
+Package pdftex.def Info: figures/I_347.png  used on input line 249.
+(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+) [7 <./figures/I_345.png> <./figures/I_346.png> <./figures/I_347.png>]
+(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl) [8
 
 
 ]
@@ -644,27 +748,33 @@ Package pdftex.def Info: figures/example.png  used on input line 44.
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/tocpage.aux)
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\content.aux)) ) 
 Here is how much of TeX's memory you used:
- 7815 strings out of 478659
- 129598 string characters out of 2845921
- 441725 words of memory out of 3000000
- 25783 multiletter control sequences out of 15000+600000
- 414960 words of font info for 54 fonts, out of 8000000 for 9000
+ 8164 strings out of 478659
+ 136284 string characters out of 2845921
+ 458861 words of memory out of 3000000
+ 26114 multiletter control sequences out of 15000+600000
+ 414623 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,68p,407b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,68p,561b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\vit
 ru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users
-\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:
-\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
- <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728
-.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
-1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-larm2488.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\larm1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\labx1200.pk>
-Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (5 pa
-ges, 123925 bytes).
+\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\U
+sers\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <
+C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.p
+k> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm24
+88.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1200.pk><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vitru/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vitru/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vitru/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vitru
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (8 pa
+ges, 626624 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
+ 421 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
