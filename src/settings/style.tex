@@ -1,16 +1,21 @@
 %! Author = vitru
 %! Date = 05.04.2022
 
+\usepackage{indentfirst} %делать отступ в начале первого параграфа (стр.19 "LaTeX за три дня" А.В. Столяров 2010г.)
+\usepackage{setspace} %"умное" расстояние между строк - установить 1.5 интервала от нормального, эквивалентно
+\renewcommand{\baselinestretch}{1.47}
+\setlength{\parindent}{10mm} %отступ красной строки
 
 % настройка полей
 \geometry{top=2cm}
 \geometry{bottom=2cm}
 \geometry{left=2cm}
-\geometry{right=1cm}
+\geometry{right=2cm}
 \geometry{bindingoffset=0cm}
-
+\setcounter{tocdepth}{1} % отменяет вывод в оглавление subsection and subsubsection
 % оформления подписи рисунка
-\captionsetup[figure]{labelsep = period}
-
-\counterwithin{figure}{section}
-\counterwithin{table}{section}
+\DeclareCaptionLabelSeparator{defffis}{ -- }
+\captionsetup[figure]{justification=centering, labelsep=defffis}
+\captionsetup[table]{labelsep=defffis,
+         justification=raggedright, singlelinecheck=off}
+\renewcommand\figurename{Рисунок}
