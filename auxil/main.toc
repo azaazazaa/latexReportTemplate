@@ -2,10 +2,8 @@
 \contentsline {section}{\numberline {1}Цель работы}{3}{}%
 \contentsline {section}{\numberline {2}Задачи, решаемые в лабораторной работе}{3}{}%
 \contentsline {section}{\numberline {3}Объект исследования}{3}{}%
-\contentsline {section}{\numberline {4}Рабочие формулы и исходные данные}{3}{}%
-\contentsline {section}{\numberline {5}Оборудования и принадлежности}{4}{}%
-\contentsline {subsection}{\numberline {5.1}Схема установки}{4}{}%
-\contentsline {section}{\numberline {6}Результаты эксперимента}{4}{}%
-\contentsline {section}{\numberline {7}Графики}{5}{}%
-\contentsline {section}{\numberline {8}Выводы и анализы результатов}{8}{}%
+\contentsline {section}{\numberline {4}Оборудования и принадлежности}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Схема установки}{4}{}%
+\contentsline {section}{\numberline {5}Результаты эксперимента}{4}{}%
+\contentsline {section}{\numberline {6}Выводы и анализы результатов}{8}{}%
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  5 MAY 2022 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  12 MAY 2022 07:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,7 +486,10 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen182
 \xmathstrut@box=\box55
 \xmathstrut@dim=\dimen183
-) (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\vitru\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count282
 \float@exts=\toks33
@@ -625,6 +628,17 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 14.
+Package gensymb Info: Math companion symbols declared on input line 14.
+LaTeX Info: Redefining \degree on input line 14.
+LaTeX Info: Redefining \celsius on input line 14.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 14.
+LaTeX Info: Redefining \ohm on input line 14.
+Package gensymb Info: Using \textohm for \ohm on input line 14.
+Package gensymb Info: Using \textmu for \micro on input line 14.
 \openout2 = `templates/titlepage.aux'.
 
 (templates/titlepage.tex
@@ -660,129 +674,69 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `content.aux'.
 
  (content.tex
-<figures/Scheme.png, id=14, 675.52374pt x 293.095pt>
+<figures/Scheme.png, id=14, 269.20575pt x 179.4705pt>
 File: figures/Scheme.png Graphic file (type png)
 <use figures/Scheme.png>
-Package pdftex.def Info: figures/Scheme.png  used on input line 67.
-(pdftex.def)             Requested size: 350.33727pt x 152.00777pt.
+Package pdftex.def Info: figures/Scheme.png  used on input line 72.
+(pdftex.def)             Requested size: 350.33727pt x 233.57176pt.
 
 [3
 
 
 
+] [4 <./figures/Scheme.png>]
+<figures/rhox.png, id=23, 462.528pt x 346.896pt>
+File: figures/rhox.png Graphic file (type png)
+<use figures/rhox.png>
+Package pdftex.def Info: figures/rhox.png  used on input line 123.
+(pdftex.def)             Requested size: 350.33727pt x 262.76501pt.
+ [5]
+<figures/phix.png, id=30, 462.528pt x 346.896pt>
+File: figures/phix.png Graphic file (type png)
+<use figures/phix.png>
+Package pdftex.def Info: figures/phix.png  used on input line 130.
+(pdftex.def)             Requested size: 350.33727pt x 262.76501pt.
+<figures/wulffnet.png, id=31, 569.0058pt x 569.2467pt>
+File: figures/wulffnet.png Graphic file (type png)
+<use figures/wulffnet.png>
+Package pdftex.def Info: figures/wulffnet.png  used on input line 141.
+(pdftex.def)             Requested size: 350.33727pt x 350.47986pt.
+ [6 <./figures/rhox.png> <./figures/phix.png>] [7 <./figures/wulffnet.png>]) [8
 ]
-Overfull \hbox (1.43933pt too wide) in paragraph at lines 80--82
-[]\T2A/cmr/m/n/12 Построили за-ви-си-мость зна-че-ний вре-ме-ни жиз-ни лю-ми-не
-с-цен-ции от кон-цен-тра-ции ионов
- []
+(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl
 
-[4 <./figures/Scheme.png>]
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 116.
-
-<figures/ContcentrationTheory.png, id=30, 462.528pt x 346.896pt>
-File: figures/ContcentrationTheory.png Graphic file (type png)
-<use figures/ContcentrationTheory.png>
-Package pdftex.def Info: figures/ContcentrationTheory.png  used on input line 1
-62.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-[5]
-<figures/Contcentration.png, id=34, 462.528pt x 346.896pt>
-File: figures/Contcentration.png Graphic file (type png)
-<use figures/Contcentration.png>
-Package pdftex.def Info: figures/Contcentration.png  used on input line 170.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_340.png, id=35, 462.528pt x 346.896pt>
-File: figures/I_340.png Graphic file (type png)
-<use figures/I_340.png>
-Package pdftex.def Info: figures/I_340.png  used on input line 187.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_342.png, id=36, 462.528pt x 346.896pt>
-File: figures/I_342.png Graphic file (type png)
-<use figures/I_342.png>
-Package pdftex.def Info: figures/I_342.png  used on input line 196.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-
-Overfull \hbox (7.8314pt too wide) in paragraph at lines 187--197
- [][][] 
- []
-
-<figures/I_343.png, id=37, 462.528pt x 346.896pt>
-File: figures/I_343.png Graphic file (type png)
-<use figures/I_343.png>
-Package pdftex.def Info: figures/I_343.png  used on input line 206.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_344.png, id=38, 462.528pt x 346.896pt>
-File: figures/I_344.png Graphic file (type png)
-<use figures/I_344.png>
-Package pdftex.def Info: figures/I_344.png  used on input line 215.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-
-Overfull \hbox (15.66283pt too wide) in paragraph at lines 206--217
- [][][] 
- []
-
-<figures/I_345.png, id=39, 462.528pt x 346.896pt>
-File: figures/I_345.png Graphic file (type png)
-<use figures/I_345.png>
-Package pdftex.def Info: figures/I_345.png  used on input line 229.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-<figures/I_346.png, id=40, 462.528pt x 346.896pt>
-File: figures/I_346.png Graphic file (type png)
-<use figures/I_346.png>
-Package pdftex.def Info: figures/I_346.png  used on input line 238.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-
-Overfull \hbox (15.66283pt too wide) in paragraph at lines 229--240
- [][][] 
- []
-
-[6 <./figures/ContcentrationTheory.png> <./figures/Contcentration.png>]
-[7 <./figures/I_340.png> <./figures/I_342.png> <./figures/I_343.png> <./figures
-/I_344.png>]
-<figures/I_347.png, id=54, 462.528pt x 346.896pt>
-File: figures/I_347.png Graphic file (type png)
-<use figures/I_347.png>
-Package pdftex.def Info: figures/I_347.png  used on input line 253.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
- [8 <./figures/I_345.png> <./figures/I_346.png> <./figures/I_347.png>]) [9] (C:
-/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl) [10
+) [9
 
 
-]
-(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.aux
+] (C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.aux
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/titlepage.aux)
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/tocpage.aux)
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\content.aux)) ) 
 Here is how much of TeX's memory you used:
- 8279 strings out of 478659
- 138879 string characters out of 2845921
- 462229 words of memory out of 3000000
- 26222 multiletter control sequences out of 15000+600000
- 414623 words of font info for 53 fonts, out of 8000000 for 9000
+ 8263 strings out of 478659
+ 138114 string characters out of 2845921
+ 454391 words of memory out of 3000000
+ 26206 multiletter control sequences out of 15000+600000
+ 414767 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,68p,559b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,68p,407b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\vit
-ru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users
-\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\U
-sers\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <
-C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.p
-k> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm24
-88.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-rm1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1200.pk><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vitru/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vitru/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vitru/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vitru
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (10 p
-ages, 625762 bytes).
+ru\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Use
+rs\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:
+\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
+ <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440
+.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
+2488.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+larm1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\labx1200.pk><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb>
+Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (9 pa
+ges, 4373921 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
+ 330 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
