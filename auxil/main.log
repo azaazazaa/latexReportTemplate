@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  5 MAY 2022 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.4.1)  17 MAY 2022 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,109 +660,89 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `content.aux'.
 
  (content.tex
-<figures/Scheme.png, id=14, 675.52374pt x 293.095pt>
-File: figures/Scheme.png Graphic file (type png)
-<use figures/Scheme.png>
-Package pdftex.def Info: figures/Scheme.png  used on input line 67.
-(pdftex.def)             Requested size: 350.33727pt x 152.00777pt.
+<figures/Obr_1.png, id=14, 2007.5pt x 1003.75pt>
+File: figures/Obr_1.png Graphic file (type png)
+<use figures/Obr_1.png>
+Package pdftex.def Info: figures/Obr_1.png  used on input line 80.
+(pdftex.def)             Requested size: 505.89pt x 252.94327pt.
 
+Overfull \hbox (5.406pt too wide) in paragraph at lines 80--81
+ [][] 
+ []
+
+<figures/img.png, id=15, 552.0625pt x 389.455pt>
+File: figures/img.png Graphic file (type png)
+<use figures/img.png>
+Package pdftex.def Info: figures/img.png  used on input line 87.
+(pdftex.def)             Requested size: 361.34999pt x 254.92552pt.
 [3
 
 
 
-]
-Overfull \hbox (1.43933pt too wide) in paragraph at lines 80--82
-[]\T2A/cmr/m/n/12 Построили за-ви-си-мость зна-че-ний вре-ме-ни жиз-ни лю-ми-не
-с-цен-ции от кон-цен-тра-ции ионов
+ <./figures/Obr_1.png (PNG copy)>]
+<figures/Obr_2.png, id=20, 2007.5pt x 1003.75pt>
+File: figures/Obr_2.png Graphic file (type png)
+<use figures/Obr_2.png>
+Package pdftex.def Info: figures/Obr_2.png  used on input line 98.
+(pdftex.def)             Requested size: 505.89pt x 252.94327pt.
+
+Overfull \hbox (5.406pt too wide) in paragraph at lines 98--99
+ [][] 
  []
 
-[4 <./figures/Scheme.png>]
+<figures/img_1.png, id=21, 649.42625pt x 487.8225pt>
+File: figures/img_1.png Graphic file (type png)
+<use figures/img_1.png>
+Package pdftex.def Info: figures/img_1.png  used on input line 105.
+(pdftex.def)             Requested size: 361.34999pt x 271.43694pt.
+[4 <./figures/img.png> <./figures/Obr_2.png (PNG copy)>]
+<figures/Obr_3.png, id=26, 2007.5pt x 1003.75pt>
+File: figures/Obr_3.png Graphic file (type png)
+<use figures/Obr_3.png>
+Package pdftex.def Info: figures/Obr_3.png  used on input line 116.
+(pdftex.def)             Requested size: 505.89pt x 252.94327pt.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 116.
-
-<figures/ContcentrationTheory.png, id=30, 462.528pt x 346.896pt>
-File: figures/ContcentrationTheory.png Graphic file (type png)
-<use figures/ContcentrationTheory.png>
-Package pdftex.def Info: figures/ContcentrationTheory.png  used on input line 1
-62.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-[5]
-<figures/Contcentration.png, id=34, 462.528pt x 346.896pt>
-File: figures/Contcentration.png Graphic file (type png)
-<use figures/Contcentration.png>
-Package pdftex.def Info: figures/Contcentration.png  used on input line 170.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_340.png, id=35, 462.528pt x 346.896pt>
-File: figures/I_340.png Graphic file (type png)
-<use figures/I_340.png>
-Package pdftex.def Info: figures/I_340.png  used on input line 187.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_342.png, id=36, 462.528pt x 346.896pt>
-File: figures/I_342.png Graphic file (type png)
-<use figures/I_342.png>
-Package pdftex.def Info: figures/I_342.png  used on input line 196.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-
-Overfull \hbox (7.8314pt too wide) in paragraph at lines 187--197
- [][][] 
+Overfull \hbox (5.406pt too wide) in paragraph at lines 116--117
+ [][] 
  []
 
-<figures/I_343.png, id=37, 462.528pt x 346.896pt>
-File: figures/I_343.png Graphic file (type png)
-<use figures/I_343.png>
-Package pdftex.def Info: figures/I_343.png  used on input line 206.
-(pdftex.def)             Requested size: 202.35622pt x 151.76662pt.
-<figures/I_344.png, id=38, 462.528pt x 346.896pt>
-File: figures/I_344.png Graphic file (type png)
-<use figures/I_344.png>
-Package pdftex.def Info: figures/I_344.png  used on input line 215.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+<figures/img_2.png, id=27, 672.5125pt x 429.605pt>
+File: figures/img_2.png Graphic file (type png)
+<use figures/img_2.png>
+Package pdftex.def Info: figures/img_2.png  used on input line 123.
+(pdftex.def)             Requested size: 361.34999pt x 230.83607pt.
+[5 <./figures/img_1.png> <./figures/Obr_3.png (PNG copy)>]
+<figures/Obr_4.png, id=32, 2007.5pt x 1003.75pt>
+File: figures/Obr_4.png Graphic file (type png)
+<use figures/Obr_4.png>
+Package pdftex.def Info: figures/Obr_4.png  used on input line 134.
+(pdftex.def)             Requested size: 505.89pt x 252.94327pt.
 
-Overfull \hbox (15.66283pt too wide) in paragraph at lines 206--217
- [][][] 
+Overfull \hbox (5.406pt too wide) in paragraph at lines 134--135
+ [][] 
  []
 
-<figures/I_345.png, id=39, 462.528pt x 346.896pt>
-File: figures/I_345.png Graphic file (type png)
-<use figures/I_345.png>
-Package pdftex.def Info: figures/I_345.png  used on input line 229.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
-<figures/I_346.png, id=40, 462.528pt x 346.896pt>
-File: figures/I_346.png Graphic file (type png)
-<use figures/I_346.png>
-Package pdftex.def Info: figures/I_346.png  used on input line 238.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
+[6 <./figures/img_2.png> <./figures/Obr_4.png (PNG copy)>]) [7]
+(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl)
 
-Overfull \hbox (15.66283pt too wide) in paragraph at lines 229--240
- [][][] 
- []
+Package caption Warning: Unused \captionsetup[table] on input line 20.
+See the caption package documentation for explanation.
 
-[6 <./figures/ContcentrationTheory.png> <./figures/Contcentration.png>]
-[7 <./figures/I_340.png> <./figures/I_342.png> <./figures/I_343.png> <./figures
-/I_344.png>]
-<figures/I_347.png, id=54, 462.528pt x 346.896pt>
-File: figures/I_347.png Graphic file (type png)
-<use figures/I_347.png>
-Package pdftex.def Info: figures/I_347.png  used on input line 253.
-(pdftex.def)             Requested size: 216.81pt x 162.60709pt.
- [8 <./figures/I_345.png> <./figures/I_346.png> <./figures/I_347.png>]) [9] (C:
-/Users\vitru\Documents\LatexDoc\Template\auxil\main.bbl) [10
+[8
 
 
-]
-(C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.aux
+] (C:/Users\vitru\Documents\LatexDoc\Template\auxil\main.aux
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/titlepage.aux)
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\templates/tocpage.aux)
 (C:/Users\vitru\Documents\LatexDoc\Template\auxil\content.aux)) ) 
 Here is how much of TeX's memory you used:
- 8279 strings out of 478659
- 138879 string characters out of 2845921
- 462229 words of memory out of 3000000
- 26222 multiletter control sequences out of 15000+600000
+ 8216 strings out of 478659
+ 137369 string characters out of 2845921
+ 444147 words of memory out of 3000000
+ 26162 multiletter control sequences out of 15000+600000
  414623 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,68p,559b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,68p,407b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\vit
 ru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users
 \vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\U
@@ -771,18 +751,11 @@ C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.p
 k> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm24
 88.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 rm1440.pk> <C:\Users\vitru\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1200.pk><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vitru/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vitru/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vitru/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vitru/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vitru
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (10 p
-ages, 625762 bytes).
+0\labx1200.pk>
+Output written on C:/Users\vitru\Documents\LatexDoc\Template\out\main.pdf (8 pa
+ges, 709699 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
+ 347 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

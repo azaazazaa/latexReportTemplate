@@ -1,18 +1,24 @@
 \begin{thebibliography}{1}
 
-\bibitem{levenberg1944method}
-Kenneth Levenberg.
-\newblock A method for the solution of certain non-linear problems in least
-  squares.
-\newblock {\em Quarterly of applied mathematics}, 2(2):164--168, 1944.
+\bibitem{BSpecCourse}
+Уточникова~Валентина Владимировна.
+\newblock ЛЮМИНЕСЦЕНЦИЯ органических
+  соединений.
+\newblock 2014.
 
-\bibitem{AseevMetoda}
-Владимир~Анатольевич Асеев,
-  Анастасия~Николаевна Бабкина,
-  Леонид~Юрьевич Миронов, and
-  Рустам~Какабаевич Нурыев.
-\newblock Методы и техника исследования
-  оптических материалов.
-\newblock 2020.
+\bibitem{AfotoTB3}
+ГК Маляревич, НВ Гапоненко, АВ Мудрый, ЮН
+  Дроздов, МВ Степихова, and ЕА Степанова.
+\newblock Фотолюминесценция ионов tb3+ в
+  ксерогелях алюмоиттриевых гранатов.
+\newblock {\em Физика и техника полупроводников},
+  43(2):170, 2009.
+
+\bibitem{CShtang}
+ТВ Штанг.
+\newblock Рекомбинационная фотолюминесценция
+  наноструктурного оксида алюминия при ВУФ
+  возбуждении.
+\newblock Technical report, 2013.
 
 \end{thebibliography}
